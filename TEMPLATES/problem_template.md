@@ -60,8 +60,8 @@
 <details>
 <summary><b>💻 Implementation</b></summary>
 
-```python
-# Final Code
+```cpp
+// Final Code
 ```
 
 </details>

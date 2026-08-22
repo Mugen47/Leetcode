@@ -2,14 +2,16 @@
 
 > **"A problem solved without understanding is worth little. A pattern transferred to unfamiliar problems is mastery."**
 
-Welcome to my personal interactive algorithm textbook, problem-solving journal, and long-term record of growth. This repository documents a systematic, pattern-first approach to mastering Data Structures and Algorithms.
+Welcome to my personal interactive algorithm textbook, problem-solving journal, and long-term record of growth. 
+
+This repository documents a systematic, pattern-first approach to mastering Data Structures and Algorithms in **C++**, taught interactively by **Antigravity**.
 
 ---
 
 ## 🎯 Mission
-To build deep algorithmic intuition, recognize structural problem patterns, derive algorithms independently, prove their correctness, and flawlessly translate them into code.
+To build deep algorithmic intuition, recognize structural problem patterns, derive algorithms independently, prove their correctness, and flawlessly translate them into **modern C++**.
 
-**This is not a race to solve problems. This is a journey to build mastery.**
+**Antigravity** is my primary teacher, code reviewer, and curriculum manager. Learning is interactive (Socratic method), and C++ standard library features are taught "just-in-time" as problems require them.
 
 ---
 
@@ -49,15 +51,16 @@ The repository is structured to separate learning content from practice and revi
 
 - 🗺️ **[Master Roadmap & Learning Order](./ROADMAP/master-roadmap.md)** - The complete taxonomy of all algorithmic patterns.
 - 🧩 **[Pattern Index](./ROADMAP/pattern-index.md)** - A quick-link guide to all pattern READMEs and their status.
+- 💻 **[C++ Prerequisite Tracker](./CPP/cpp-prerequisites.md)** - Tracking mastery of the STL and modern C++ features.
 - 📓 **[Learning Journal](./JOURNAL/learning-log.md)** - Daily entries recording insights and "Aha!" moments.
-- 🚨 **[Mistake Bank](./MISTAKES/mistake-bank.md)** - A log of failed reasoning to prevent recurring errors.
+- 🚨 **[Mistake Bank](./MISTAKES/mistake-bank.md)** - A log of failed reasoning and C++ bugs to prevent recurring errors.
 - 📅 **[Revision Log](./REVISION/review-log.md)** - Spaced repetition schedules.
 - 🏆 **[Milestones](./JOURNAL/milestones.md)** - Major achievements along the journey.
 
 ---
 
 ## 🔥 Current Focus
-> **Phase 1: Foundations — [01 Two Pointers](./PATTERNS/01-two-pointers/README.md)** *(Coming Soon)*
+> **Phase 1: Foundations — [01 Two Pointers](./PATTERNS/01-two-pointers/README.md)** *(Pending Initialization)*
 
 ### 🚨 Current Weaknesses
 * *(To be populated as the journey begins)*
@@ -66,10 +69,11 @@ The repository is structured to separate learning content from practice and revi
 
 ## ⚙️ Methodology
 
-1. **Pattern-First:** We do not learn "Arrays" then "Graphs". We learn the underlying structural patterns (e.g., *Sliding Window*, *Prefix Sum*, *Topological Sort*).
-2. **Active Recall:** Documentation utilizes collapsible sections (`<details>`) to test understanding before revealing answers.
-3. **Spaced Repetition:** Problems are tagged for revision. Mastery requires re-solving them from scratch without hints.
-4. **Visual Learning:** Complex state transitions are diagrammed (using Mermaid or ASCII).
+1. **Antigravity Teaches:** The curriculum is taught interactively. I actively learn.
+2. **C++ & Just-In-Time STL:** Algorithms are implemented strictly in C++. STL features are taught precisely when a pattern demands them.
+3. **Pattern-First:** We do not learn "Arrays" then "Graphs". We learn the underlying structural patterns.
+4. **Active Recall:** Documentation utilizes collapsible sections (`<details>`) to test understanding before revealing answers.
+5. **Spaced Repetition:** Problems are tagged for revision. Mastery requires re-solving them from scratch without hints.
 
 ---
-*Status: Repository Initialized | Let the journey begin.*
+*Status: Architecture Corrected | Awaiting Phase 1 Initiation.*

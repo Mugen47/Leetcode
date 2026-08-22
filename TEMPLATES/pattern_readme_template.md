@@ -52,8 +52,8 @@
 <details>
 <summary><b>Reveal Template</b></summary>
 
-```python
-# Code template
+```cpp
+// Code template
 ```
 </details>
 
