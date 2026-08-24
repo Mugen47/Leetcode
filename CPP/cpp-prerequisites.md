@@ -27,7 +27,7 @@
 
 | Concept | Status | Confidence | Notes |
 | :--- | :---: | :---: | :--- |
-| `std::sort` | ⚪ | Not Started | - |
+| `std::sort` | 🟢 | Strong | - |
 | `std::reverse` | ⚪ | Not Started | - |
 | `std::lower_bound` | ⚪ | Not Started | Binary search |
 | `std::upper_bound` | ⚪ | Not Started | Binary search |
