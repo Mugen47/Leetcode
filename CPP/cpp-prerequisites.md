@@ -10,7 +10,7 @@
 | :--- | :---: | :---: | :--- |
 | `std::vector` | 🟢 | Strong | Dynamic arrays |
 | `std::string` | 🟢 | Strong | - |
-| `std::unordered_map` | ⚪ | Not Started | Hash map |
+| `std::unordered_map` | 🟢 | Strong | Hash map — key lookup/insert in O(1) avg |
 | `std::map` | ⚪ | Not Started | Ordered tree map |
 | `std::unordered_set` | ⚪ | Not Started | Hash set |
 | `std::set` | ⚪ | Not Started | Ordered tree set |
