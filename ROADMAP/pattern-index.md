@@ -6,7 +6,7 @@
 | # | Pattern | Category | Status | Mastered Problems | Notes |
 | :---: | :--- | :--- | :---: | :---: | :---: |
 | 01 | [Two Pointers](../PATTERNS/01-two-pointers/README.md) | Sequence Control | 🟢 | 4 | 📖 |
-| 02 | [Sliding Window](../PATTERNS/02-sliding-window/README.md) | Windows | ⚪ | 0 | 📖 |
+| 02 | [Sliding Window](../PATTERNS/02-sliding-window/README.md) | Windows | 🟢 | 4 | 📖 |
 | 03 | Prefix Sum | Precomputations | ⚪ | 0 | 📖 |
 | 04 | Difference Array | Precomputations | ⚪ | 0 | 📖 |
 | 05 | Hashing | Fast Lookups | ⚪ | 0 | 📖 |
