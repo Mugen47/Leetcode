@@ -9,7 +9,7 @@
 | 02 | [Sliding Window](../PATTERNS/02-sliding-window/README.md) | Windows | 🟢 | 4 | 📖 |
 | 03 | [Prefix Sum](../PATTERNS/03-prefix-sum/README.md) | Precomputations | 🟢 | 2 | 📖 |
 | 04 | Difference Array | Precomputations | ⚪ | 0 | 📖 |
-| 05 | [Hashing](../PATTERNS/04-hashing/README.md) | Fast Lookups | 🟡 | 2 | 📖 |
+| 05 | [Hashing](../PATTERNS/04-hashing/README.md) | Fast Lookups | 🟢 | 3 | 📖 |
 | 06 | Binary Search | Search Space | ⚪ | 0 | 📖 |
 | 07 | Binary Search on Answer | Search Space | ⚪ | 0 | 📖 |
 | 08 | Monotonic Stack | Monotonicity | ⚪ | 0 | 📖 |
